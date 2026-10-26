@@ -1,6 +1,6 @@
 {
-  "name": "PlantAI ตรวจกิ่ง",
-  "short_name": "PlantAI",
+  "name": "DuriGraft AI",
+  "short_name": "DuriGraft AI",
   "description": "ตรวจตอนกิ่งและทาบกิ่งด้วย AI ใช้ได้โดยไม่ต้องมีเน็ต",
   "lang": "th",
   "start_url": "./",

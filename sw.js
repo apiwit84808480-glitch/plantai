@@ -1,5 +1,5 @@
 // Offline cache: everything the app fetches is stored on the phone the first time, then served from the phone.
-const CACHE = 'plantai-v4-1';
+const CACHE = 'plantai-v4-2';
 const SHELL = ['./', 'index.html', 'app.js', 'manifest.webmanifest', 'models/manifest.json',
                'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png'];
 
